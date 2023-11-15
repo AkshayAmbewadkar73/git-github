@@ -1,5 +1,5 @@
-def addition(a,b,e):
-    return a+b+e
+def addition(a,b,c):
+    return a+b+c
 
 def devision(a,b):
     return a/b
